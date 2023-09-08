@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogFragmentApp</string>
+    <string name="Dialog_Fragment">\nDialog Fragment</string>
+    <string name="Enter_Your_Data">Enter Your Data</string>
+</resources>
